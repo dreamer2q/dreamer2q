@@ -1,14 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
-[![Wasabeef's github stats](https://github-readme-stats.wasabeef.vercel.app/api?username=dreamer2q&show_icons=true&line_height=21&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamer2q&show_icons=true&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-
+| ![stats][github-stats] |
+| ---------------------- |
+| ![langs][lang-stats]   |
 
 <!--
-**dreamer2q/dreamer2q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -18,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- references -->
+
+[github-stats]: https://github-readme-stats.vercel.app/api?username=dreamer2q&show_icons=true&theme=vue
+[lang-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=dreamer2q&show_icons=true&layout=compact&theme=vue
