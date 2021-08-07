@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-| ![stats][github-stats] |
-| ---------------------- |
-| ![langs][lang-stats]   |
+| [![stats][github-stats]](#) |
+| --------------------------- |
+| [![langs][lang-stats]](#)   |
 
 <!--
 - 🔭 I’m currently working on ...
