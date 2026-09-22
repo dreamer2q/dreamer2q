@@ -24,7 +24,3 @@ I am a developer based in Shanghai. I build practical tools, explore AI-agent wo
 
 - Blog: [dreamer2q.wang](https://dreamer2q.wang)
 - GitHub: [@dreamer2q](https://github.com/dreamer2q)
-
----
-
-This profile intentionally avoids third-party status cards, so its core content remains available when external image services are down.
